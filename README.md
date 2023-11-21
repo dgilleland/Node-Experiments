@@ -33,6 +33,7 @@ The following are ideas and linked resources that may be groupped together to fo
 
 #### Articles/Tutorials
 
+- :+1: [**Using dev containers with VS Code for an easier dev setup**](https://blog.logrocket.com/using-dev-containers-vs-code-easier-dev-setup/)
 - [Exploring the best syntax highlighting libraries](https://blog.logrocket.com/exploring-best-syntax-highlighting-libraries/)
   - https://highlightjs.org/
   - https://prismjs.com/
